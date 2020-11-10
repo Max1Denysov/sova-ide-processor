@@ -1,0 +1,11 @@
+__pycache__
+_all_tests/
+tests_deprecated/_tmp/
+tests/_tmp/*
+
+env/develop.env
+env/testing.env
+
+known_hosts_from_env
+
+*.pyc

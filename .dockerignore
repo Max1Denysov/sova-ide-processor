@@ -1,0 +1,12 @@
+# Common
+venv
+.git
+.idea
+**/.pytest_cache
+**/__pycache__
+
+# Specific
+_all_tests
+tests/_tmp/*
+tests_deprecated
+known_hosts_from_env
